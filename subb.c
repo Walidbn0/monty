@@ -5,7 +5,7 @@
   *@counter: line_number
   *Return: no return
  */
-void func_subb(stack_t **head, unsigned int counter)
+void func_sub(stack_t **head, unsigned int counter)
 {
   stack_t *auxx;
   int suss,nodes;

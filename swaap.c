@@ -5,7 +5,7 @@
  * @count: no used
  * Return: no return
 */
-void func_swaap(stack_t **head, unsigned int counter)
+void func_swap(stack_t **head, unsigned int counter)
 {
     stack_t *h;
     int len, auxx;
