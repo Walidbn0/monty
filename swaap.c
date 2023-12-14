@@ -1,11 +1,11 @@
 #include "monty.h"
 /**
- * func_swap - prints the stack
+ * func_swaap - prints the stack
  * @head: stack head
  * @count: no used
  * Return: no return
 */
-void func_swap(stack_t **head, unsigned int counter)
+void func_swaap(stack_t **head, unsigned int counter)
 {
     stack_t *h;
     int len, auxx;
